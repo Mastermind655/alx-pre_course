@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [master d831450] newest
+=======
+#!/bin/bash
+echo "ALX School"
